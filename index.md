@@ -16,7 +16,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: start
-  headline: "<strong>Eure Stimme bei der Bundestagswahl 2021</strong><br>Informationen
+  headline: "<strong>Eure Stimme bei der Bundestagswahl am 23. Februar 2025</strong><br>Informationen
     für Deutsche Staatsangehörige in der Schweiz"
   content: ''
   media:
@@ -39,7 +39,7 @@ page_sections:
     Städte und Gemeinden ermöglichen den Briefwahlantrag auch online.</strong></p><ol><li><p>Beantragt
     die Briefwahl.</p></li><li><p>Frühestens 6 Wochen vor der Wahl werden Euch die
     Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten Wahlschein
-    rechtzeitig ab, sodass er zum Wahltag am 26. September angekommen ist. Bitte ausreichend
+    rechtzeitig ab, sodass er zum Wahltag am 23. Februar angekommen ist. Bitte ausreichend
     frankieren!</p></li></ol>"
   slug: noch-gemeldet
 - template: detail-content
@@ -54,11 +54,11 @@ page_sections:
     Antragsformular zur Eintragung in das Wählerverzeichnis an die dortige Verwaltung
     schicken (z.B. «Rathaus, Stadt Pulheim» oder «Wahlamt, Stadt Stuttgart»):</p><ol><li><p>Ladet
     das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
-    title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schickt
+    title="">Antragsformular</a> von der Webseite der Bundeswahlleiterin.</p></li><li><p>Schickt
     das ausgefüllte Formular spätestens Ende August an Euren letzten Wohnort in Deutschland.
     <strong>Am besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen vor der Wahl
     werden Euch die Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten
-    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September angekommen ist.
+    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 23. Februar 2025 angekommen ist.
     Bitte ausreichend frankieren!</p></li></ol><p><br></p>
   slug: weniger-25-jahre
 - template: detail-content
@@ -71,10 +71,10 @@ page_sections:
     mit Belegen) begründet, dass Ihr</p><blockquote><p><em>«persönlich und unmittelbar
     (aus eigener Erfahrung) Vertrautheit mit den politischen Verhältnissen in der
     Bundesrepublik Deutschland erworben [habt] und gegenwärtig davon betroffen [seid]»
-    <br></em>(Merkblatt<em> </em>des Bundeswahlleiters)</p></blockquote><ol><li><p>Ladet
-    das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
-    title="">Antragsformular</a> von der Webseite des Bundeswahlleiters.</p></li><li><p>Schickt
-    das ausgefüllte Formular zusammen mit der Begründung auf dem Beiblatt und allen
+    <br></em>(Merkblatt<em> </em>der Bundeswahlleiterin)</p></blockquote><ol><li><p>Ladet
+    das <a href="https://bundeswahlleiterin.de/dam/jcr/af77d699-761b-4ff1-9c8b-1cdeb864818c/bwo_anlage-2a_ausfuellbar.pdf"
+    title="">Antragsformular</a> von der Webseite der Bundeswahlleiterin.</p></li><li><p>Schickt
+    das ausgefüllte Formular zusammen mit der Begründung auf dem separaten Beiblatt und allen
     Belegen bis spätestens Ende August an Euren letzten Wohnort in Deutschland. <strong>Am
     besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen vor der Wahl werden
     Euch die Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten
@@ -88,14 +88,14 @@ page_sections:
 - template: detail-illustrated-content
   block: text-img
   headline: Fristen und Links im Überblick
-  content: <p><strong>Spätestens bis Ende August</strong> verschickt Ihr den Antrag
-    zur Eintragung ins Wählerverzeichnis. Das könnt Ihr aber auch jetzt schon machen!</p><p><strong>5.
-    September:</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss <strong>bei
-    der Stadt oder Gemeinde eingegangen sein</strong>.</p><p><strong>26. September:</strong>
+  content: <p><strong>Spätestens bis Ende Januar</strong> verschickt Ihr den Antrag
+    zur Eintragung ins Wählerverzeichnis. Das könnt Ihr aber auch jetzt schon machen!</p><p><strong>Anfang
+    Februar:</strong> Der Antrag zur Eintragung ins Wählerverzeichnis muss <strong>bei
+    der Stadt oder Gemeinde eingegangen sein</strong>.</p><p><strong>23. Februar:</strong>
     Bundestagswahl. Die Briefwahlunterlagen müssen bei der Stadt oder Gemeinde angekommen
-    sein. Bitte hinreichend frankieren.</p><p>Quellen und Links</p><ul><li><p><a href="https://bundeswahlleiter.de"
-    title="">Die Seite des Bundeswahlleiters</a></p></li><li><p><a href="https://bundeswahlleiter.de/bundestagswahlen/2021/informationen-waehler/deutsche-im-ausland.html"
-    title="">Information des Bundeswahlleiters für Deutsche im Ausland</a></p></li></ul>
+    sein. Bitte hinreichend frankieren.</p><p>Quellen und Links</p><ul><li><p><a href="https://bundeswahlleiterin.de"
+    title="">Die Seite der Bundeswahlleiterin</a></p></li><li><p><a href="https://bundeswahlleiter.de/bundestagswahlen/2025/informationen-waehler/deutsche-im-ausland.html" 
+    title="">Information der Bundeswahlleiterin für Deutsche im Ausland</a></p></li></ul>
   slug: fristen
   image: "/uploads/2021/01/25/undraw_mailbox_re_dvds-1.svg"
 - template: 1-column-text
@@ -106,7 +106,7 @@ page_sections:
     wurden von Freiwilligen zusammengestellt und wir übernehmen keine Gewähr für Korrektheit
     oder Vollständigkeit. Diese Seite ist als Hilfestellung gedacht, um die Teilnahme
     an der Bundestagswahl möglichst einfach zu machen. Verbindliche und präzise Informationen
-    findet Ihr unter <a href="https://www.bundeswahlleiter.de" title="">www.bundeswahlleiter.de</a>.<br>Das
+    findet Ihr unter <a href="https://www.bundeswahlleiterin.de" title="">www.bundeswahlleiterin.de</a>.<br>Das
     Angebot ist überparteilich und wir freuen uns über jede Stimme für eine demokratische
     Partei.
 - template: 4-column-footer
