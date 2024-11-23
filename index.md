@@ -55,7 +55,7 @@ page_sections:
     schicken (z.B. «Rathaus, Stadt Pulheim» oder «Wahlamt, Stadt Stuttgart»):</p><ol><li><p>Ladet
     das <a href="https://www.bundeswahlleiter.de/dam/jcr/dc589523-d709-4c43-adbc-9342dda468ad/bwo_anlage-2_ausfuellbar.pdf"
     title="">Antragsformular</a> von der Webseite der Bundeswahlleiterin.</p></li><li><p>Schickt
-    das ausgefüllte Formular spätestens Ende August an Euren letzten Wohnort in Deutschland.
+    das ausgefüllte Formular spätestens Ende Januar an Euren letzten Wohnort in Deutschland.
     <strong>Am besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen vor der Wahl
     werden Euch die Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten
     Wahlschein rechtzeitig ab, sodass er zum Wahltag am 23. Februar 2025 angekommen ist.
@@ -75,10 +75,10 @@ page_sections:
     das <a href="https://bundeswahlleiterin.de/dam/jcr/af77d699-761b-4ff1-9c8b-1cdeb864818c/bwo_anlage-2a_ausfuellbar.pdf"
     title="">Antragsformular</a> von der Webseite der Bundeswahlleiterin.</p></li><li><p>Schickt
     das ausgefüllte Formular zusammen mit der Begründung auf dem separaten Beiblatt und allen
-    Belegen bis spätestens Ende August an Euren letzten Wohnort in Deutschland. <strong>Am
+    Belegen bis spätestens Ende Januar an Euren letzten Wohnort in Deutschland. <strong>Am
     besten jetzt!</strong></p></li><li><p>Frühestens 6 Wochen vor der Wahl werden
     Euch die Briefwahlunterlagen zugesandt.</p></li><li><p>Schickt den ausgefüllten
-    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 26. September angekommen ist.
+    Wahlschein rechtzeitig ab, sodass er zum Wahltag am 23. Februar angekommen ist.
     Bitte ausreichend frankieren!</p></li></ol><p>Beispiele für Gründe zur Wahlteilnahme:</p><ul><li><p>Ortskräfte
     an deutschen Auslandsvertretungen oder Goethe-Instituten</p></li><li><p>Grenzpendler*innen</p></li><li><p>Auslandsdeutsche,
     die durch ein Engagement in deutschen Verbänden, Parteien etc. in erheblichem
